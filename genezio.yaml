@@ -1,4 +1,4 @@
-name: express-getting-started
+name: genez-express-demo
 # The region where the application will be deployed. Available regions: us-east-1, eu-central-1
 region: us-east-1
 yamlVersion: 2
